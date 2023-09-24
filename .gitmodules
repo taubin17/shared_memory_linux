@@ -1,0 +1,3 @@
+[submodule "cpp_essentials"]
+	path = cpp_essentials
+	url = git@github.com:taubin17/cpp_essentials.git

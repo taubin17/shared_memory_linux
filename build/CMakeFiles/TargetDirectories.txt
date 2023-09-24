@@ -1,0 +1,14 @@
+/home/tyler/projects/git_projects/shared_memory_linux/build/CMakeFiles/shared_memory_test.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/CMakeFiles/edit_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/CMakeFiles/rebuild_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/CMakeFiles/edit_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/CMakeFiles/rebuild_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/configuration/CMakeFiles/edit_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/configuration/CMakeFiles/rebuild_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/configuration/tomlplusplus/CMakeFiles/edit_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/configuration/tomlplusplus/CMakeFiles/rebuild_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/logging/CMakeFiles/edit_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/logging/CMakeFiles/rebuild_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/logging/spdlog/CMakeFiles/spdlog.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/logging/spdlog/CMakeFiles/edit_cache.dir
+/home/tyler/projects/git_projects/shared_memory_linux/build/cpp_essentials/logging/spdlog/CMakeFiles/rebuild_cache.dir

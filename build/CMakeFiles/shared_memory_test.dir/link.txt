@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/shared_memory_test.dir/main.cpp.o -o shared_memory_test 
